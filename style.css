@@ -1,0 +1,158 @@
+.head{
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    background-color: rgb(217, 209, 209);
+}
+.face{
+    height:20px;
+    width: 20px;
+    
+}
+.twit{
+    height: 20px;
+    width: 20px;
+}
+.google{
+    height: 20px;
+    width: 20px;
+}
+h5{
+    margin-left: 90px
+}
+select{
+    margin-top: 10px;
+    margin-left:680px;
+    
+    
+}
+.logo{
+    margin-right: 200px;
+    margin-top: 10px;
+}
+.Get{
+    background-color: violet;
+    margin-right:50px;
+
+    
+}
+.sub-head{
+    height: 70px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    margin-bottom: 25px;
+    background-color: rgb(142, 133, 133):
+    
+
+}
+.phn{
+    height: 25px;
+    width:20px;
+    
+    border: 1px solid;
+    border-radius: 50px;
+
+}
+.map,.cart{
+    height: 20px;
+    width: 20px;
+    
+    border: 1px solid;
+    margin-left: 5px;
+    border-radius: 50px;
+}
+.nav li{
+    list-style-type: none;
+    background-color:blueviolet;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+.nav a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+    width: 100%;
+}
+.nav a:hover{
+    background-color: rgb(103, 6, 194);
+}
+.nav li{
+float: left;
+}
+.nav{
+    height: 49px;
+    width: 100%;
+    background-color: blueviolet;
+    margin-bottom:-21px;
+    margin-left: 100px;
+    
+
+}
+.container{
+    height: 500px;
+    width: 100%;
+    background-image: url(images/calm-millennial-man-glasses-sit-600nw-1817934905.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.container h1{
+    padding-top: 170px;
+    padding-left: 55px;
+    font-size: 50px;
+    color:blueviolet;
+}
+.btn1{
+margin-left: 55px;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 20px;
+padding-right: 20px;
+background-color: rgb(243, 243, 246);
+}
+.btn2{
+    margin-right: 50px;
+    padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 20px;
+padding-right: 20px;
+background-color: blueviolet
+}
+
+.last{
+    background-color: blueviolet;
+    color: white;
+    text-align: start;
+    margin-top: -18px;
+    flex-direction: row;
+    display: flex;
+    justify-content:space-evenly;
+
+}
+.Quote{
+    height: 60px;
+    width: 150px;
+    padding-top: 5px;
+    margin-top: 5px;
+    margin-left: 890px;
+}
+
+
+
+
+
+
+
+
+    
+  
+  
+    
+    

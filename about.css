@@ -1,0 +1,44 @@
+.div1{
+    height: 200px;
+    width: 250px;
+    border: 1px solid;
+}
+.div3{
+    height: 200px;
+    width: 250px;
+    border: 1px solid;
+}
+.set{
+    height: 20px;
+    width: 20px;
+}
+.div2{
+    
+        height: 200px;
+        width: 250px;
+        border: 1px solid;
+        background-image: url(images/images.jpg);
+        background-size: fixed;
+        color: wheat;
+    
+    
+}
+.boxes{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.feed{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+   
+}
+.himalaya{
+    height: 250px;
+    width: 100%;
+    background-image: url(images/hima.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}

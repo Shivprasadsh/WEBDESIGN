@@ -1,0 +1,50 @@
+.req-first{
+    
+    height: 300px;
+    color: white;
+    background-image: url(pic/istockphoto-1331493599-1024x1024-Photoroom.png-Photoroom.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 70px;
+    padding-right: 300px;
+    
+
+}
+input{
+    height: 30px;
+    width: 180px;
+}
+.sub{
+    height: 40px;
+    width: 180px;
+    background-color: blueviolet;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background: blueviolet;
+}
+.pics{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.footer-t{
+margin-top: 50px;
+}
+.footer-f{
+    padding-right: 20px;
+}
+.hand{
+    height: 20px;
+    width: 30px;
+}
+.map-1,.phn-1{
+    height: 20px;
+    width: 20px;
+    border-radius: 10px;
+}
+.cribe{
+    background-color: blue;
+}
